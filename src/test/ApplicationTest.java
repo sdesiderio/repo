@@ -24,6 +24,7 @@ public class ApplicationTest {
 		final String dbUrl="jdbc:mysql://localhost:3306/sistemi";
 		final String dbUser="root";
 		final String dbPass="";
+		final String modify = "";
 		
 		Class.forName(dbDriver);
 		
